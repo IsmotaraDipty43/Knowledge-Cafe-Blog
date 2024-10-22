@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/F0tKvp6/florian-olivo-4hb-J-eym-Z1o-unsplash.jpg",
+        "title": "The Enchanted Forest",
+        "author": "Jane Doe",
+        "author_img": "https://i.ibb.co/jvys2Ck/girl1.jpg",
+        "post_date": "2024-10-10",
+        "reading_time": 5,
+        "hashtag": ["#fantasy", "#adventure", "#forest"]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/WPmkkv9/emile-perron-xr-VDYZRGdw4-unsplash.jpg",
+        "title": "A Journey Through Time",
+        "author": "John Smith",
+        "author_img": "https://i.ibb.co/vjfnHKb/man3.jpg",
+        "post_date": "2024-10-12",
+        "reading_time": 8,
+        "hashtag": ["#sci-fi", "#time-travel", "#history"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/JFdRVwK/altumcode-PNb-Dk-Q2-DDg-M-unsplash.jpg",
+        "title": "The Secrets of the Ocean",
+        "author": "Alice Johnson",
+        "author_img": "https://i.ibb.co/Njf80zV/girl3.jpg",
+        "post_date": "2024-10-15",
+        "reading_time": 6,
+        "hashtag": ["#ocean", "#mystery", "#nature"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/Fx1Z4Kz/lavi-perchik-f-Sq-Yw-KWzwhk-unsplash.jpg",
+        "title": "The Last Kingdom",
+        "author": "Michael Brown",
+        "author_img": "https://i.ibb.co/ZdT43BY/man2.jpg",
+        "post_date": "2024-10-18",
+        "reading_time": 7,
+        "hashtag": ["#history", "#war", "#epic"]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/zGzZYMC/mohammad-rahmani-8q-EB0f-Te9-Vw-unsplash.jpg",
+        "title": "Whispers of the Wind",
+        "author": "Emily White",
+        "author_img": "https://i.ibb.co/Jdy5MQ9/images-jpge.jpg",
+        "post_date": "2024-10-20",
+        "reading_time": 4,
+        "hashtag": ["#poetry", "#nature", "#inspiration"]
+    }
+]

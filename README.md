@@ -1,4 +1,4 @@
-"# **Knowledge Cafe**
+**Knowledge Cafe**
 
 ## **Description**
 Welcome to **Knowledge Cafe**! This website allows users to explore and read interesting blogs on various topics. Users can interact with the blogs by bookmarking their favorites and tracking how much time they spend reading each blog.
